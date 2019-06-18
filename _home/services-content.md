@@ -3,16 +3,17 @@ silex-id: services-content
 ---
 ### Digital products
 
-Text her
+From strategy and design to development. We create products and tools to solve business problems.
 
-* bullet points
-* bullet points
-* bullet points
+* Mobile first, responsive web
+* Digital ecosystems, native mobile or web apps
+* Display systems
+* Digital entertainment systems
 
-### Digital products
+### Immersive Experiences
 
-Text her
+Augmented and Virtual reality novel experiences for businesses.
 
-* bullet points
-* bullet points
-* bullet points
+* Immersive learning & training
+* Architectural visualization
+* Data visualization
