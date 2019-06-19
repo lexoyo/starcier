@@ -1,5 +1,6 @@
 ---
 layout: home
----
 
-test
+---
+No content needed here, look into the "home" collection
+
